@@ -3,12 +3,12 @@
 This repository contains the submitted files of the tasks assigned by the Goldman Sachs Software Engineering Virtual Experience
 
 Our job is to crack as many passwords as possible with available tools (e.g. use Hashcat).
-Task : Crack leaked password database
-The practical skills I gained from working on this task:
+### Task : Crack leaked password database
 
-Cryptography Basics
-Password Cracking
-Password Best Practise
+### The practical skills I gained from working on this task:-
+-Cryptography Basics
+-Password Cracking
+-Password Best Practise
 
 
 ## Certificate Of Completion
