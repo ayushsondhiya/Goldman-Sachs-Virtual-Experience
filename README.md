@@ -1,1 +1,3 @@
-# Goldman-Sachs-Virtual-Experience[Goldman Sachs virtual experiance.pdf](https://github.com/ayushsondhiya/Goldman-Sachs-Virtual-Experience/files/14815923/Goldman.Sachs.virtual.experiance.pdf)
+# Goldman-Sachs-Virtual-Experience
+
+![certificate_GS](https://github.com/ayushsondhiya/Goldman-Sachs-Virtual-Experience/assets/78423649/bc2e2f09-1c7a-46ed-b6ff-5fbf224babe7)
